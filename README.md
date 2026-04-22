@@ -10,104 +10,60 @@
 
 <!-- ================= ABOUT ================= -->
 
-## About Me
-
-- 💻 Passionate Developer building modern web apps  
-- ☁️ Exploring Cloud & DevOps tools  
-- 🚀 Love building scalable systems  
-- 📚 Always learning new technologies  
-- 🎯 Goal: Become a top-tier Software Engineer  
-
----
-
-<!-- ================= STATS ================= -->
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schaklout&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schaklout&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+💻 I build things that sometimes work on the first try... sometimes 😅  
 </p>
 
 ---
 
-## Contribution Streak
+<!-- ================= STATS (MINIMAL) ================= -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schaklout&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=schaklout&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## Activity Graph
+<!-- ================= FUN / INTERACTIVE ================= -->
+
+## 🎮 Mini Game (clickable chaos)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=schaklout&theme=tokyo-night&hide_border=true"/>
+  <a href="https://neal.fun/arcade/">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+👉 Click the GIF ↑ (warning: productivity may decrease)
 </p>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
-## Tech Stack
+## 😂 Developer Energy
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" />
 </p>
 
 ---
 
-<!-- ================= TOOLS ================= -->
+<!-- ================= RANDOM WEIRD FUN ================= -->
 
-## Tools I Use
-
-- VS Code  
-- Git & GitHub 
-- Linux   
-- Postman   
-- Figma   
-
----
-
-<!-- ================= TROPHIES ================= -->
-
-## GitHub Trophies
+## 🧪 Experimental Zone
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=schaklout&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180"/>
 </p>
 
----
-
-<!-- ================= FUN ================= -->
-
-## Fun Zone
-
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" />
-</p>
-
----
-
-<!-- ================= VISITOR ================= -->
-
-##  Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=schaklout&label=Profile%20Views&color=00F7FF&style=flat"/>
+⚠️ This profile may or may not contain bugs on purpose
 </p>
 
 ---
 
 <!-- ================= FOOTER ================= -->
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
-<p align="center">Built with passion, code, and caffeine ☕</p>
+<p align="center">
+🚀 Still debugging life one commit at a time
+</p>
