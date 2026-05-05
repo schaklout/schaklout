@@ -17,7 +17,7 @@
     <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <!-- 3D Contribution Calendar -->
 <p align="center">
