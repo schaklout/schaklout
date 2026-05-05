@@ -15,5 +15,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7DD7D&height=3&width=100%25" />
     <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
-
 </div>
+
+## 📈 Contribution Activity
+
+<!-- 3D Contribution Calendar -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/schaklout/schaklout/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+</p>
+
+---
